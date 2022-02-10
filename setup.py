@@ -10,5 +10,5 @@ setup(
         'console_scripts':
             ['helloworld = helloworld.core:print_message']
         }
-    )
+)
 
